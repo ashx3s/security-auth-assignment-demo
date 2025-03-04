@@ -57,3 +57,23 @@ This is intended to serve as an mvp example of what is expected for phase 2 of t
 - dynamic routes should have content (if api routes, labelled as such)
 - css isn't required, however if you include some as well as images with static asset caching as demonstrated in labs, you are eligible for an extra point
 - **set this code up so if you want to turn it into a portfolio piece after the semester, adding content and styles will be a logical next step**
+
+## Grading Overview
+
+_you'll be graded on the following_
+
+- Auth Implementation 10
+- Secure Session Management 10
+- RBAC and Protected Routes 10
+- JWT Implementation 10
+- Session and CSRF Protection 10
+- Documentation 30
+  - setup instructions
+  - auth mechanisms
+  - rbac
+  - lessons learned
+  - video demo
+- General Code Standards: +5
+  - git and gitignore
+  - code organzation and file management
+  - Eligible bonuses (identify in readme)

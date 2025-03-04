@@ -1,0 +1,14 @@
+{
+  "name": "phase-2-mvp-demo",
+  "version": "1.0.0",
+  "description": "This is intended to serve as an mvp example of what is expected for phase 2 of the assignment. The frontend tooling is entirely your choice. Our goal with this assignment is proper function authentication and security routing. So while you're expected to add some content to the pages and have navigatable routes actually navigatable, they don't need to be visually well developed.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
